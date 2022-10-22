@@ -1,0 +1,10 @@
+1_AutoClick 0 30
+2_Grandma 0 100
+3_CRobot 0 1000
+4_CookieFarm 0 10000
+5_CFactory 0 50000
+6_SFactory 0 200000
+7_XFactory 0 500000
+8_CCloner 0 1000000
+9_CCern 0 5000000
+10_AtomicC 0 30000000
